@@ -19,6 +19,8 @@ export default function Home() {
         <meta property="og:title" content="👋 Richie McIlroy" key="ogtitle" />
         <meta property="og:description" content="Hey, I'm Richie! I'm a Software Engineer 👨‍💻 Frenchie Dad 🐶 Evertonian 😢" key="ogdesc" />
         <title>👋 Richie McIlroy</title>
+
+        <script defer data-domain="mcilroy.co" src="https://plausible.io/js/plausible.js"></script>
       </Head>
 
       <main className="px-4">
