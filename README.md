@@ -1,2 +1,2 @@
 # My Personal Website
-McIlroy.co
+[View Website](https://mcilroy.co)
